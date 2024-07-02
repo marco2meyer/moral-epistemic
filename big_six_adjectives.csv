@@ -1,0 +1,181 @@
+Adjective,Category
+sincere,Honesty-Humility
+fair,Honesty-Humility
+honest,Honesty-Humility
+faithful,Honesty-Humility
+modest,Honesty-Humility
+unassuming,Honesty-Humility
+trustworthy,Honesty-Humility
+reliable,Honesty-Humility
+humble,Honesty-Humility
+frugal,Honesty-Humility
+loyal,Honesty-Humility
+selfless,Honesty-Humility
+ethical,Honesty-Humility
+genuine,Honesty-Humility
+upright,Honesty-Humility
+honorable,Honesty-Humility
+candid,Honesty-Humility
+truthful,Honesty-Humility
+unpretentious,Honesty-Humility
+righteous,Honesty-Humility
+virtuous,Honesty-Humility
+moral,Honesty-Humility
+down-to-earth,Honesty-Humility
+simple,Honesty-Humility
+pure,Honesty-Humility
+innocent,Honesty-Humility
+conscientious,Honesty-Humility
+sensible,Honesty-Humility
+decent,Honesty-Humility
+integral,Honesty-Humility
+emotional,Emotionality
+sensitive,Emotionality
+anxious,Emotionality
+fearful,Emotionality
+vulnerable,Emotionality
+sentimental,Emotionality
+touchy,Emotionality
+nervous,Emotionality
+insecure,Emotionality
+self-conscious,Emotionality
+moody,Emotionality
+temperamental,Emotionality
+affectionate,Emotionality
+sympathetic,Emotionality
+compassionate,Emotionality
+loving,Emotionality
+tender,Emotionality
+caring,Emotionality
+warm,Emotionality
+friendly,Emotionality
+kind-hearted,Emotionality
+empathic,Emotionality
+gentle,Emotionality
+merciful,Emotionality
+devoted,Emotionality
+attached,Emotionality
+intimate,Emotionality
+devotional,Emotionality
+passionate,Emotionality
+romantic,Emotionality
+outgoing,Extraversion
+sociable,Extraversion
+talkative,Extraversion
+gregarious,Extraversion
+energetic,Extraversion
+enthusiastic,Extraversion
+assertive,Extraversion
+adventurous,Extraversion
+bold,Extraversion
+active,Extraversion
+confident,Extraversion
+cheerful,Extraversion
+playful,Extraversion
+lively,Extraversion
+friendly,Extraversion
+charismatic,Extraversion
+extroverted,Extraversion
+expressive,Extraversion
+animated,Extraversion
+boisterous,Extraversion
+charming,Extraversion
+flirtatious,Extraversion
+fun-loving,Extraversion
+high-spirited,Extraversion
+vivacious,Extraversion
+spirited,Extraversion
+exuberant,Extraversion
+uninhibited,Extraversion
+brash,Extraversion
+gregarious,Extraversion
+friendly,Agreeableness
+kind,Agreeableness
+affectionate,Agreeableness
+generous,Agreeableness
+sympathetic,Agreeableness
+compassionate,Agreeableness
+cooperative,Agreeableness
+trusting,Agreeableness
+forgiving,Agreeableness
+altruistic,Agreeableness
+considerate,Agreeableness
+good-natured,Agreeableness
+modest,Agreeableness
+unselfish,Agreeableness
+humble,Agreeableness
+patient,Agreeableness
+helpful,Agreeableness
+cordial,Agreeableness
+amiable,Agreeableness
+affable,Agreeableness
+gracious,Agreeableness
+tolerant,Agreeableness
+benevolent,Agreeableness
+gentle,Agreeableness
+courteous,Agreeableness
+peaceful,Agreeableness
+accommodating,Agreeableness
+civil,Agreeableness
+meek,Agreeableness
+charitable,Agreeableness
+organized,Conscientiousness
+efficient,Conscientiousness
+responsible,Conscientiousness
+hard-working,Conscientiousness
+dependable,Conscientiousness
+punctual,Conscientiousness
+disciplined,Conscientiousness
+dutiful,Conscientiousness
+meticulous,Conscientiousness
+careful,Conscientiousness
+thorough,Conscientiousness
+diligent,Conscientiousness
+orderly,Conscientiousness
+reliable,Conscientiousness
+attentive,Conscientiousness
+persistent,Conscientiousness
+self-controlled,Conscientiousness
+systematic,Conscientiousness
+methodical,Conscientiousness
+deliberate,Conscientiousness
+conscientious,Conscientiousness
+prudent,Conscientiousness
+cautious,Conscientiousness
+persevering,Conscientiousness
+exact,Conscientiousness
+steadfast,Conscientiousness
+serious,Conscientiousness
+mindful,Conscientiousness
+assiduous,Conscientiousness
+committed,Conscientiousness
+creative,Openness to Experience
+imaginative,Openness to Experience
+curious,Openness to Experience
+inventive,Openness to Experience
+insightful,Openness to Experience
+adventurous,Openness to Experience
+open-minded,Openness to Experience
+artistic,Openness to Experience
+intellectual,Openness to Experience
+original,Openness to Experience
+progressive,Openness to Experience
+innovative,Openness to Experience
+unconventional,Openness to Experience
+introspective,Openness to Experience
+philosophical,Openness to Experience
+visionary,Openness to Experience
+aesthetic,Openness to Experience
+thoughtful,Openness to Experience
+perceptive,Openness to Experience
+reflective,Openness to Experience
+versatile,Openness to Experience
+sensitive,Openness to Experience
+idealistic,Openness to Experience
+nonconformist,Openness to Experience
+liberal,Openness to Experience
+deep,Openness to Experience
+flexible,Openness to Experience
+exploratory,Openness to Experience
+abstract,Openness to Experience
+analytic,Openness to Experience
